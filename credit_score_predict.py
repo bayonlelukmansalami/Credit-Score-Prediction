@@ -11,7 +11,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
 
-df = pd.read_csv('credit_train - Copy.zip')
+df = pd.read_csv('https://github.com/bayonlelukmansalami/Credit-Score-Prediction/raw/main/credit_train%20-%20Copy.zip')
 
 X = df[["Annual_Income", "Monthly_Inhand_Salary", 
                    "Num_Bank_Accounts", "Num_Credit_Card", 
