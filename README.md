@@ -11,3 +11,4 @@ There are three credit scores that banks and credit card companies use to label 
 2. Standard
 3. Poor
 #### A person with a good credit score will get loans from any bank and financial institution. For the task of Credit Score Classification, we need a labelled dataset with credit scores.
+> **Citation**: The mobile app can be viewed on Streamlit [Credit Score Prediction Web App](https://bayonlelukmansalami-credit-score-pr-credit-score-predict-rbkwxu.streamlit.app/)
