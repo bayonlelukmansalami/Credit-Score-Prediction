@@ -3,7 +3,7 @@
 ### Today banks and credit card companies use Machine Learning algorithms to classify all the customers in their database based on their credit history.
 > **Citation**: The data used in this exercise is derived from [Credit Score Classification: Case Study ](https://statso.io/credit-score-classification-case-study/).
 
-
+### [You Can access the Web App](https://bayonlelukmansalami-credit-score-pr-credit-score-predict-rbkwxu.streamlit.app/)
 ### Credit Score Classification
 There are three credit scores that banks and credit card companies use to label their customers:
 
